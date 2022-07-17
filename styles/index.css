@@ -1,0 +1,27 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: var(--text);
+}
+.title {
+  font-size: 32px;
+  font-weight: 600;
+}
+.desc {
+  padding-top: 10px;
+  font-weight: 200;
+}
+.social {
+  padding-top: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.social a:not(:last-child) {
+  margin-right: 10px;
+}
+.git {
+  color: var(--text);
+}
