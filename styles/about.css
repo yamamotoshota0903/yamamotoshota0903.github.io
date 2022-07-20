@@ -54,3 +54,10 @@
   border: 1px solid var(--main);
   background-color: var(--text);
 }
+.titlebox {
+  display: flex;
+  flex-wrap: wrap;
+}
+.titlebox h1 {
+  margin: 0;
+}

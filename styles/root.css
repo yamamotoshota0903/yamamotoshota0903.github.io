@@ -1,5 +1,6 @@
 :root {
   --base: #333;
+  --base_dark: rgba(22, 22, 22, 0.9);
   --base_light: #3f3f3f;
   --main: #dada1f;
   --main_light: #fafa8f;
